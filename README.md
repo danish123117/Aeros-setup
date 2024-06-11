@@ -107,6 +107,8 @@ Minor edit
 
 ```
 NTP=pool.ntp.org
+
+p.s. the update does not work on Polimi networks you need to connect a mobile hotspot to run the update
 ````
 
 
